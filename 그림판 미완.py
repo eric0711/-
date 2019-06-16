@@ -2,7 +2,7 @@ from tkinter import *
 
 window = Tk()
 
-window.title("¸¸µé±â ¾î·Æ´Ù")
+window.title("Â¸Â¸ÂµÃ©Â±Ã¢ Â¾Ã®Â·Ã†Â´Ã™")
 canvas = Canvas(window, height=200, width=200)
 
 canvas.bind("<Button-1>", mouseClick)
