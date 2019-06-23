@@ -1,9 +1,7 @@
 import tkinter
 
-x1 = None
-y1 = None
-x2 = None
-y2 = None
+x1, y1 x2, y2 = None
+
 
 dm = 0
 dc = "red"
